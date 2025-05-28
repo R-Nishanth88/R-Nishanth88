@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R Nishanth Datta</h1>
-<h3 align="center">Myself R Nishanth Datta, am currently pursuing Btech in Artificial intelligence and Data science at Amrita Vishwa Vidyapeetham</h3>
+<h3 align="center">A passionate and curious developer with a strong interest in AI</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/R-Nishanth88](https://github.com/R-Nishanth88)
 
